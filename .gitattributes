@@ -1,0 +1,5 @@
+# Exclude platform runner files from GitHub language statistics (GitHub Linguist)
+/ios/ linguist-vendored
+/linux/ linguist-vendored
+/macos/ linguist-vendored
+/windows/ linguist-vendored
