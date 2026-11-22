@@ -21,11 +21,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
             color: Colors.red,
           ),
         ),
-
-        // Visual placeholder: no back navigation added yet.
         leading: const Icon(Icons.arrow_back_ios),
-
-        // Visual placeholder: no menu added yet.
         actions: const [
           Padding(
             padding: EdgeInsets.only(right: 16),
